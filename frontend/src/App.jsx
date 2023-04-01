@@ -5,6 +5,10 @@ import './App.css'
 
 import {BrowseRouter, Link, Route, Routes} from 'react-router-dom'
 
+// import { CreatePost, Home } from './pages'
+
+import { CreatePost, Home } from './pages'
+
 function App() {
   
 
