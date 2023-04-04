@@ -13,10 +13,13 @@ function App() {
   
 
   return (
-    <div className="App">
-Ubhi shuru krty hein
-      
-    </div>
+    <BrowseRouter>
+
+<header>
+
+</header>
+
+</BrowseRouter >
   )
 }
 
