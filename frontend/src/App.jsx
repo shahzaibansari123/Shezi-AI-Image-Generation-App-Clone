@@ -17,6 +17,14 @@ function App() {
 
 <header>
 
+<Link to="/">
+
+</Link>
+
+<Link to="/CreatePost">
+
+</Link>
+
 </header>
 
 </BrowseRouter >
