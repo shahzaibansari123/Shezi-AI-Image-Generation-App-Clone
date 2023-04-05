@@ -27,6 +27,10 @@ function App() {
 
 </header>
 
+<main>
+
+</main>
+
 </BrowseRouter >
   )
 }
