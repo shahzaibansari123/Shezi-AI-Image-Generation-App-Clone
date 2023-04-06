@@ -33,6 +33,8 @@ function App() {
 
 <Route path="/" element={<Home />} />
 
+<Route path="/CreatePost" element={<CreatePost />} />
+
 
 
 </Routes>
