@@ -15,7 +15,7 @@ function App() {
   return (
     <BrowseRouter>
 
-<header>
+<header className="">
 
 <Link to="/">
 
@@ -27,7 +27,7 @@ function App() {
 
 </header>
 
-<main>
+<main className="">
 
 <Routes>
 
